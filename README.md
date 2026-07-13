@@ -34,3 +34,22 @@ Expense-Tracker-Wireframe/
 ├── Mobile_App_Wireframing_Report.docx
 └── Screenshots/
 ```
+## Screenshots
+
+### Splash Screen
+![Splash](01_Splash_Screen.png)
+
+### Login Screen
+![Login](02_Login_Screen.png)
+
+### Home Dashboard
+![Home](03_Home_Dashboard.png)
+
+### Add Expense
+![Add Expense](04_Add_Expense.png)
+
+### Reports
+![Reports](05_Reports.png)
+
+### Profile
+![Profile](06_Profile.png)
